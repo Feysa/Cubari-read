@@ -4,5 +4,26 @@
   "artist": "",
   "author": "",
   "cover": "https://www.asurascans.com/wp-content/uploads/2021/02/Player_That_Cant_Level_Up_Title_Card_-_Barak.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1651223232",
+      "groups": {
+        "": [
+          "https://www.asurascans.com/wp-content/uploads/2021/02/1-82.jpg"
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1651223315",
+      "groups": {
+        "Chapters": [
+          "https://www.asurascans.com/comics/1649969363-player-who-cant-level-up/"
+        ]
+      }
+    }
+  }
 }
